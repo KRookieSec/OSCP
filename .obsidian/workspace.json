@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "0c3f5dec5dab94f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d85aaf8e71418e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a859a41076f2e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1x10_hacklab-vulnix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "657e7732c367be60",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e13e9b5a7e34cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1e45af908cffb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27ea1c32f19e36df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a50a48001ed7140",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "112afc2713f3a803",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c9c522d20e805d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236115cf04cbbd89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1x10_hacklab-vulnix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26bbeb4237ac81a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1x10_hacklab-vulnix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d040ab5f1a51edff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "012700a23796ea23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1x10_hacklab-vulnix.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3a859a41076f2e73",
+  "lastOpenFiles": [
+    "1x08_VulnOS-2.md",
+    "1x09_SickOs-1.2.md",
+    "1x10_hacklab-vulnix.md",
+    "img/hacklab-vulnix/14.png",
+    "img/hacklab-vulnix/13.png",
+    "img/hacklab-vulnix/12.png",
+    "img/hacklab-vulnix/11.png",
+    "img/hacklab-vulnix/10.png",
+    "img/hacklab-vulnix/9.png",
+    "img/hacklab-vulnix/8.png",
+    "img/hacklab-vulnix/7.png",
+    "img/hacklab-vulnix/6.png",
+    "img/hacklab-vulnix/5.png",
+    "img/hacklab-vulnix",
+    "img/新建文件夹"
+  ]
+}
