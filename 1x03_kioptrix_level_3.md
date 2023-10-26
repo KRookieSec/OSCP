@@ -264,12 +264,13 @@
       ![16.png](./img/KioptrixVM3/16.png)
 
 10. 在loneferrent这一行的末尾输入如下数据，按F2保存，F10退出
-
+    
     ```shell
     ,/bin/bash
     ```
     
     ![17.png](./img/KioptrixVM3/17.png)
+    
     11. 输入如下命令，成功提权
     
     ```shell
